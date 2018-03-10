@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#chat {
+  height: 300px;
+  background-color: #000000;
+}
+
+textarea {
+  width: 470px;
+  height: 100px;
+  padding: 15px;
+  border: 0;
+  background-color: #d5d5d5;
+  float: left;
+}
+
+button {
+  width: 500px;
+  height: 50px;
+  padding: 15px;
+  border: 0;
+  background-color: #ee5500;
+  color: #ffffff;
+  float: left;
+}
